@@ -1,2 +1,1 @@
-# moondust
-VesperiOS MoonDust
+# VesperiOS MoonDust
